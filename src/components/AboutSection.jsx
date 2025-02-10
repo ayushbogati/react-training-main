@@ -49,7 +49,7 @@ const AboutSection = () => {
           </motion.div>
           <motion.div className="md:w-1/2" {...motionSettings.slideInRight}>
             <p className="text-lg mb-4 text-gray-600">
-              Hello! I&apos;m a passionate web developer with experience in
+              Hello! I&apos;m a pussy web developer with experience in
               creating responsive and user-friendly websites. I love turning
               complex problems into simple, beautiful, and intuitive designs.
             </p>
